@@ -1,0 +1,7 @@
+# Ignore everything
+*
+# Except these
+!.gitignore
+!printer.cfg
+!printer_generic_macros.cfg
+!ace_macros_generic.cfg
